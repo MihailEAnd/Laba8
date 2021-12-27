@@ -1,0 +1,5 @@
+﻿  Task1.cpp
+  main.cpp
+D:\universitet\7semestr\пвсиб\лабы\cppLab8-master\cppLab8-master\cppLab8\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  cppLab8.vcxproj -> D:\universitet\7semestr\пвсиб\лабы\cppLab8-master\cppLab8-master\x64\Debug\cppLab8.exe
